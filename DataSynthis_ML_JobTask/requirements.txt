@@ -1,0 +1,8 @@
+gradio
+pmdarima
+numpy
+pandas
+scikit-learn
+tensorflow
+joblib
+matplotlib
